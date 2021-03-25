@@ -71,4 +71,4 @@ client.on("message", async message => {
 
 
 
-client.login('ODIzOTM0MzY4NTQzMTQ2MDQ2.YFoCrQ.eN-82RfKMX7C3yDWKrv2sspy7RU');
+client.login('ODIzOTM0MzY4NTQzMTQ2MDQ2.YFoCrQ.1O2FSRg3Mpgof2NS8riX22wLS3U');
