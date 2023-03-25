@@ -1,5 +1,5 @@
-# Xanarchy Nitro Bot
-This is a bot to get discord Nitro Free, you only need patience
+# Foz Nitro Spitter
+This bot generates random nitro giftcodes when ran.
 
 # Steps:
 
